@@ -1,0 +1,23 @@
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - VS Code
+.vscode/
+
+# Compiled output
+build/
+out/
+*.class
+
+# Data persistence directory
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
